@@ -118,6 +118,19 @@ playlists (optional) – for managing playlists
 
 
 
+📁 Folder Structure
+
+/spotify-clone/
+├── index.html
+├── login.php
+├── register.php
+├── dashboard.php
+├── /css/
+├── /js/
+├── /songs/
+├── /images/
+└── /sql/spotify_db.sql
+
 
 🎯 Outcome
 
